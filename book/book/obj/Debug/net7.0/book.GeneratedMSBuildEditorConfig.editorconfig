@@ -16,12 +16,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/tahir-aslan/Desktop/core.net mvc/book-booking-/book/book
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/tahir-aslan/Desktop/core.net mvc/book-booking-/book/book/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[/Users/tahir-aslan/Desktop/core.net mvc/book-booking-/book/book/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tahir-aslan/Desktop/core.net mvc/book-booking-/book/book/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[/Users/tahir-aslan/Desktop/core.net mvc/book-booking-/book/book/Views/AktivitetsArkiv/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWt0aXZpdGV0c0Fya2l2L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tahir-aslan/Desktop/core.net mvc/book-booking-/book/book/Views/DuKanBidra/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRHVLYW5CaWRyYS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tahir-aslan/Desktop/core.net mvc/book-booking-/book/book/Views/Hjem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGplbS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tahir-aslan/Desktop/core.net mvc/book-booking-/book/book/Views/KontaktOss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS29udGFrdE9zcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tahir-aslan/Desktop/core.net mvc/book-booking-/book/book/Views/OmOss/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT21Pc3MvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/tahir-aslan/Desktop/core.net mvc/book-booking-/book/book/Views/Shared/Error.cshtml]
@@ -30,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/tahir-aslan/Desktop/core.net mvc/book-booking-/book/book/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tahir-aslan/Desktop/core.net mvc/book-booking-/book/book/Views/Utvalg/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXR2YWxnL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/tahir-aslan/Desktop/core.net mvc/book-booking-/book/book/Views/_ViewImports.cshtml]

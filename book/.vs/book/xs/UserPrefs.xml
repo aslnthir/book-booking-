@@ -1,12 +1,35 @@
 ﻿<Properties StartupConfiguration="{01D9BFEC-72A2-45BD-A762-27F5A953B6D3}|https">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.book PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.book PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="book/Views/OmOss/Index.cshtml">
+    <Files>
+      <File FileName="book/Program.cs" />
+      <File FileName="book/Controllers/HjemController.cs" />
+      <File FileName="book/Views/Hjem/Index.cshtml" />
+      <File FileName="book/Models/AktivitetsArkiv.cs" />
+      <File FileName="book/Controllers/AktivitetsArkivController.cs" />
+      <File FileName="book/Views/AktivitetsArkiv/Index.cshtml" />
+      <File FileName="book/Views/Shared/_Layout.cshtml" />
+      <File FileName="book/Views/OmOss/Index.cshtml" Line="13" Column="481" />
+      <File FileName="book/Views/KontaktOss/Index.cshtml" />
+      <File FileName="book/Views/Account/Index.cshtml" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="book" selected="True" />
+          <Node name="book" expanded="True">
+            <Node name="book" expanded="True" selected="True">
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="OmOss" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="video" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>

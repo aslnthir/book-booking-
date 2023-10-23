@@ -8,4 +8,39 @@
 
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <Content Remove="wwwroot\img\" />
+    <Content Remove="wwwroot\video\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\img\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Views\Hjem\" />
+    <Folder Include="wwwroot\video\" />
+    <Folder Include="Views\AktivitetsArkiv\" />
+    <Folder Include="Views\Utvalg\" />
+    <Folder Include="Views\DuKanBidra\" />
+    <Folder Include="Views\OmOss\" />
+    <Folder Include="Views\KontaktOss\" />
+    <Folder Include="Views\Account\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Controllers\" />
+    <None Remove="Views\Hjem\" />
+    <None Remove="Views\AktivitetsArkiv\" />
+    <None Remove="Views\Utvalg\" />
+    <None Remove="Views\DuKanBidra\" />
+    <None Remove="Views\OmOss\" />
+    <None Remove="Views\KontaktOss\" />
+    <None Remove="Views\Account\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
 </Project>
